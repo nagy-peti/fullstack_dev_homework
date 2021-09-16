@@ -1,0 +1,15 @@
+.active {
+    font-weight: bold;
+}
+ul {
+    list-style: none;
+    padding-inline-start: 20px;
+}
+li span {
+    cursor: pointer;
+
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
